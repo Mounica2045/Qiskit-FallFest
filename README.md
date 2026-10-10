@@ -1,7 +1,5 @@
 # Qiskit-FallFest
 
-# ⚛️ Qiskit Fall Fest
-
 Welcome to my **Qiskit Fall Fest** repository! 🎉
 
 This repository contains hands-on Jupyter notebooks exploring the fundamentals of quantum computing using **Qiskit**, IBM's open-source quantum computing software development kit. Through practical experiments and quantum circuit implementations, this project explores essential quantum concepts, algorithms, and quantum communication protocols.
